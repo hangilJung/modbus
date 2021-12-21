@@ -1,0 +1,26 @@
+{
+  "20211214": {
+    "suncheonmanseupji": { "success": 5, "fail": 0 },
+    "jokokgyo": { "success": 6, "fail": 11 },
+    "yongdanggyo": { "success": 5, "fail": 4 },
+    "wonyongdanggyo": { "success": 3, "fail": 4 }
+  },
+  "20211215": {
+    "suncheonmanseupji": { "success": 445, "fail": 258 },
+    "jokokgyo": { "success": 432, "fail": 190 },
+    "yongdanggyo": { "success": 444, "fail": 159 },
+    "wonyongdanggyo": { "success": 442, "fail": 161 }
+  },
+  "20211216": {
+    "suncheonmanseupji": { "success": 855, "fail": 52 },
+    "jokokgyo": { "success": 857, "fail": 18 },
+    "yongdanggyo": { "success": 869, "fail": 5 },
+    "wonyongdanggyo": { "success": 872, "fail": 3 }
+  },
+  "20211221": {
+    "suncheonmanseupji": { "success": 1, "fail": 0 },
+    "jokokgyo": { "success": 1, "fail": 0 },
+    "yongdanggyo": { "success": 1, "fail": 0 },
+    "wonyongdanggyo": { "success": 1, "fail": 0 }
+  }
+}
